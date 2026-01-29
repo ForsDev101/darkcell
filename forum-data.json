@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "3.0",
-    "syncDate": "2025-01-30T12:00:00.000Z",
+    "syncDate": "2024-01-30T12:00:00.000Z",
     "syncBy": "DARKCELL",
     "totalRecords": {
       "users": 1,
@@ -14,7 +14,7 @@
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
       "isAdmin": true,
-      "createdAt": "2025-01-30T12:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z",
       "avatarColor": "#ff1493",
       "isOnline": false,
       "lastLogin": null,
