@@ -1,33 +1,24 @@
 {
-  "topics": [
-    {
-      "id": 1769718264822,
-      "title": "sdasdfsa",
-      "content": "dasdsadafafsadd",
-      "category": "hack",
-      "author": "DARKCELL",
-      "avatarColor": "#ff1493",
-      "likes": 1,
-      "views": 1,
-      "createdAt": "2026-01-29T20:24:24.822Z",
-      "files": []
-    }
-  ],
   "users": [
     {
       "id": 1,
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
+      "password": "hash_7a05f9_13",
       "isAdmin": true,
-      "createdAt": "2026-01-29T20:48:02.086Z",
+      "createdAt": "2024-01-30T00:00:00.000Z",
       "avatarColor": "#ff1493",
       "isOnline": false,
-      "password": "hidden_for_github"
+      "lastLogin": null,
+      "lastActivity": null
     }
   ],
-  "stats": {
-    "totalTopics": 1,
+  "topics": [],
+  "metadata": {
     "totalUsers": 1,
-    "lastSync": "2026-01-29T20:48:07.313Z"
+    "totalTopics": 0,
+    "onlineUsers": 0,
+    "lastSync": "2024-01-30T00:00:00.000Z",
+    "syncVersion": "v1"
   }
 }
