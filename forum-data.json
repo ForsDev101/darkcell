@@ -7,8 +7,8 @@
       "category": "hack",
       "author": "DARKCELL",
       "avatarColor": "#ff1493",
-      "likes": 0,
-      "views": 0,
+      "likes": 1,
+      "views": 1,
       "createdAt": "2026-01-29T20:24:24.822Z",
       "files": []
     }
@@ -19,15 +19,15 @@
       "username": "DARKCELL",
       "email": "admin@darkcell.com",
       "isAdmin": true,
-      "createdAt": "2026-01-29T20:47:48.898Z",
+      "createdAt": "2026-01-29T20:48:02.086Z",
       "avatarColor": "#ff1493",
-      "isOnline": true,
+      "isOnline": false,
       "password": "hidden_for_github"
     }
   ],
   "stats": {
     "totalTopics": 1,
     "totalUsers": 1,
-    "lastSync": "2026-01-29T20:48:02.024Z"
+    "lastSync": "2026-01-29T20:48:05.460Z"
   }
 }
