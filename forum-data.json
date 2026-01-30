@@ -5,7 +5,7 @@
     "syncBy": "DARKCELL",
     "totalRecords": {
       "users": 1,
-      "topics": 5
+      "topics": 0
     }
   },
   "users": [
@@ -22,114 +22,13 @@
       "password": "***encrypted***"
     }
   ],
-  "topics": [
-    {
-      "id": 1706600000001,
-      "title": "🔥 Darkcell Forumu'na Hoş Geldiniz!",
-      "content": "Darkcell özel güvenlik forumuna hoş geldiniz.\n\n📌 Forum Kuralları:\n1. Saygılı iletişim kurun\n2. Yasal sınırlar içinde kalın\n3. Paylaşılan bilgileri sorumlu kullanın\n4. Spam yapmayın\n\nHerkesin güvenli bir ortamda bilgi paylaşmasını dileriz.\n\n🔐 Darkcell Yönetimi",
-      "category": "duyuru",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 15,
-      "createdAt": "2024-01-01T10:00:00.000Z",
-      "updatedAt": "2024-01-01T10:00:00.000Z",
-      "files": []
-    },
-    {
-      "id": 1706600000002,
-      "title": "🔒 Temel Güvenlik Önlemleri",
-      "content": "Temel güvenlik önlemleri:\n\n1. Güçlü şifreler kullanın (min. 12 karakter)\n2. İki faktörlü kimlik doğrulama (2FA)\n3. Düzenli yedekleme yapın\n4. Güncellemeleri ihmal etmeyin\n5. VPN kullanımı\n6. Antivirüs yazılımları\n\nHer zaman 'en az ayrıcalık' prensibini uygulayın.",
-      "category": "güvenlik",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {
-        "1": true
-      },
-      "likeCount": 1,
-      "views": 28,
-      "createdAt": "2024-01-05T14:30:00.000Z",
-      "updatedAt": "2024-01-05T14:30:00.000Z",
-      "files": [
-        {
-          "name": "güvenlik-rehberi.pdf",
-          "size": "1.2 MB",
-          "type": "application/pdf"
-        }
-      ]
-    },
-    {
-      "id": 1706600000003,
-      "title": "⚡ Penetrasyon Testi Temelleri",
-      "content": "Penetrasyon testi aşamaları:\n\n1. Keşif (Reconnaissance)\n2. Tarama (Scanning)\n3. Erişim Kazanma (Gaining Access)\n4. Erişimi Sürdürme (Maintaining Access)\n5. İzleri Temizleme (Covering Tracks)\n\n⚠️ Sadece izin verilen sistemlerde test yapın. Yasalara uyun.",
-      "category": "hack",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 42,
-      "createdAt": "2024-01-10T11:20:00.000Z",
-      "updatedAt": "2024-01-10T11:20:00.000Z",
-      "files": [
-        {
-          "name": "pentest-checklist.txt",
-          "size": "15.6 KB",
-          "type": "text/plain"
-        },
-        {
-          "name": "tools-list.zip",
-          "size": "3.4 MB",
-          "type": "application/zip"
-        }
-      ]
-    },
-    {
-      "id": 1706600000004,
-      "title": "📊 Veri Analizi Araçları",
-      "content": "Veri analizi için kullanılan araçlar:\n\n• Wireshark - Ağ trafiği analizi\n• Metasploit - Penetrasyon testi\n• Nmap - Ağ keşfi\n• Burp Suite - Web uygulama güvenliği\n• John the Ripper - Şifre kırma\n\nHer aracın legal kullanım alanları vardır.",
-      "category": "data",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 31,
-      "createdAt": "2024-01-15T16:45:00.000Z",
-      "updatedAt": "2024-01-15T16:45:00.000Z",
-      "files": []
-    },
-    {
-      "id": 1706600000005,
-      "title": "💾 Data Paylaşım Kuralları",
-      "content": "Data paylaşımı için kurallar:\n\n✅ İzin verilenler:\n• Eğitim amaçlı veri setleri\n• Açık kaynaklı tool'lar\n• Yasal belgeler\n• Kendi oluşturduğunuz veriler\n\n❌ Yasak olanlar:\n• Kişisel veriler\n• Ticari veritabanları\n• Lisanslı içerikler\n• Yasadışı materyaller\n\nKurallara uymayanlar forumdan uzaklaştırılır.",
-      "category": "veri",
-      "author": "DARKCELL",
-      "authorId": 1,
-      "avatarColor": "#ff1493",
-      "likes": {},
-      "likeCount": 0,
-      "views": 22,
-      "createdAt": "2024-01-20T09:15:00.000Z",
-      "updatedAt": "2024-01-20T09:15:00.000Z",
-      "files": [
-        {
-          "name": "sample-dataset.csv",
-          "size": "245 KB",
-          "type": "text/csv"
-        }
-      ]
-    }
-  ],
+  "topics": [],
   "statistics": {
     "totalUsers": 1,
-    "totalTopics": 5,
-    "totalFiles": 4,
-    "totalLikes": 1,
-    "totalViews": 138,
+    "totalTopics": 0,
+    "totalFiles": 0,
+    "totalLikes": 0,
+    "totalViews": 0,
     "onlineUsers": 0
   }
 }
